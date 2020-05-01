@@ -6,4 +6,4 @@ categories: chalkleaner
 ---
 
 
-作品紹介は[こちら](../../../../work/)
+作品紹介は[こちら](../../../../works/)
