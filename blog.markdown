@@ -5,3 +5,4 @@
 layout: home
 title: Blog
 ---
+<meta name="twitter:image" content="/image/chalkleaner1.png">

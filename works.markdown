@@ -3,6 +3,8 @@ layout: page
 title: 作品
 permalink: /works/
 ---
+<!-- twitter card用画像-->
+<meta name="twitter:image" content="/image/chalkleaner1.png"> 
 # チョークリーナー  Chalkleaner
 
 黒板消しが勝手に黒板の上を動き回って、描いた文字を見つけて消してくれたらかわいい！！
