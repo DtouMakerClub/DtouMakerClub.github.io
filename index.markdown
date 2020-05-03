@@ -4,8 +4,6 @@
 
 layout: page
 ---
-<!-- twitter card用画像-->
-<meta name="twitter:image" content="/image/chalkleaner1.png"> 
 
 # 作品
 # チョークリーナー  Chalkleaner
