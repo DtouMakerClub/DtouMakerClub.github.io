@@ -29,7 +29,9 @@ twitter_username: DtouMakerClub
 github_username:  DtouMakerClub
 
 header_pages:
- - index.markdown
+ - works.markdown
+ - blog.markdown
+ - about.markdown
 
 # Build settings
 theme: minima
