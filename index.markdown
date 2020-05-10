@@ -3,10 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Home
+title: 作品
 ---
 
-# 作品
 # チョークリーナー  Chalkleaner
 
 黒板消しが勝手に黒板の上を動き回って、描いた文字を見つけて消してくれたらかわいい！！
