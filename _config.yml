@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   電子工作とプログラムが得意なエンジニア集団。
   Tsukuba Mini Maker Faire (2020)にて自動黒板消し「チョークリーナー」を展示。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dtoumakerclub.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DtouMakerClub
 github_username:  DtouMakerClub
 
