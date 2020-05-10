@@ -2,6 +2,8 @@
 layout: page
 title: 作品
 permalink: /works/
+# 以下はtwitter card用の画像
+image: /image/chalkleaner1.png
 ---
 # チョークリーナー  Chalkleaner
 

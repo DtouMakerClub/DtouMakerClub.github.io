@@ -4,4 +4,6 @@
 
 layout: home
 title: Blog
+# 以下はtwitter card用の画像
+image: /image/chalkleaner1.png
 ---
