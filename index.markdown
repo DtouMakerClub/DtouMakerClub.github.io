@@ -4,8 +4,9 @@
 
 layout: page
 title: 作品
-# 以下はtwitter card用の画像
+# 以下はmetaタグ用の情報。twitter cardなどに必要。
 image: /image/chalkleaner1.png
+description: うごく黒板消し「チョークリーナー」　描いた線を追いかけて消してくれる！
 ---
 
 # チョークリーナー  Chalkleaner
