@@ -13,7 +13,7 @@ description: うごく黒板消し「チョークリーナー」　描いた線�
 
 
 カメラでチョークの線を認識して、黒板消しが自動で動きその線を消してくれる作品です。
-![chalkleaner](/image/chalkleaner1.png)
+<img src = "/image/chalkleaner1_43.png" width = "88%">
 <a href = "https://www.youtube.com/watch?v=Rb0cu_odo0U"><img src = "https://img.youtube.com/vi/Rb0cu_odo0U/0.jpg" width = "85%"></a>
 
 <br>
