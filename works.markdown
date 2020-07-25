@@ -29,8 +29,8 @@ description: うごく黒板消し「チョークリーナー」　描いた線�
 <br>
 <br>
 
-### leafret
-<img src = "/image/chalkleaner_leafret.jpg" width = "85%">
+### Leaflet
+<img src = "/image/chalkleaner_leaflet.jpg" width = "85%">
 
 ### 出展
 [Tsukuba Mini Maker Faire 2020](https://tmmf.jp/2020/?portfolio=d%e6%a3%9f%e3%82%82%e3%81%ae%e3%81%a5%e3%81%8f%e3%82%8a%e3%82%af%e3%83%a9%e3%83%96)  
