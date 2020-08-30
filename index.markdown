@@ -20,4 +20,5 @@ description: うごく黒板消し「チョークリーナー」　描いた線�
 [![](https://img.youtube.com/vi/Rb0cu_odo0U/0.jpg)](https://www.youtube.com/watch?v=Rb0cu_odo0U)
 [![](https://img.youtube.com/vi/yfwRaJI1o2E/0.jpg)](https://www.youtube.com/watch?v=yfwRaJI1o2E)
 
-[Tsukuba Mini Maker Faire 作品サイト](https://tmmf.jp/2020/?portfolio=d%e6%a3%9f%e3%82%82%e3%81%ae%e3%81%a5%e3%81%8f%e3%82%8a%e3%82%af%e3%83%a9%e3%83%96)
+[Tsukuba Mini Maker Faire 2020](https://tmmf.jp/2020/?portfolio=d%e6%a3%9f%e3%82%82%e3%81%ae%e3%81%a5%e3%81%8f%e3%82%8a%e3%82%af%e3%83%a9%e3%83%96)  
+[Maker Faire Tokyo 2020](https://makezine.jp/event/makers-mft2020/m0094/)     (出展決定!)  
