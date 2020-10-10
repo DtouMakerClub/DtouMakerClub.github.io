@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+title: 　　
 # 以下はmetaタグ用の情報。twitter cardなどに必要。
 image: /image/chalkleaner1.png
 description: うごく黒板消し「チョークリーナー」　描いた線を追いかけて消してくれる！
