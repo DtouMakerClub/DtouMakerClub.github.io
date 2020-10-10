@@ -59,5 +59,3 @@ description: うごく黒板消し「チョークリーナー」　描いた線�
 
 ### 出展
 [Yahoo Hack U Tokyo 2017](https://hacku.yahoo.co.jp/hacku2017tokyo/) 優秀賞受賞
-
-<iframe width="672" height="378" src="https://www.youtube.com/embed/1yDJ2zCAccU?start=4117" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
