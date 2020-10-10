@@ -26,3 +26,7 @@ description: うごく黒板消し「チョークリーナー」　描いた線�
 # MEDIA
 ---
 2020/10/10 [ズームイン!! サタデー](https://www.ntv.co.jp/z-sat/) ([告知tweet](https://twitter.com/ntv_zumusata/status/1314497159937449984?s=20))
+
+<br>
+<br>
+<a class="twitter-timeline" data-height="800" href="https://twitter.com/DtouMakerClub?ref_src=twsrc%5Etfw">Tweets by DtouMakerClub</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
