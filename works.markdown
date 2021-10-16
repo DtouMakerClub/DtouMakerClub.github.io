@@ -37,10 +37,10 @@ description: うごく黒板消し「チョークリーナー」　描いた線�
 <img src = "/image/chalkleaner_leaflet.jpeg" width = "90%">
 
 ### 受賞
-2021/09/02 日本感性工学会 [かわいい感性デザイン賞(第9回)](https://kawaii-award.org/award2021/%e5%a5%a8%e5%8a%b1%e8%b3%9e%e3%80%80%e7%ac%ac9%e5%9b%9e/) : **奨励賞**
+2021/09/02 [日本感性工学会 かわいい感性デザイン賞(第9回)](https://kawaii-award.org/award2021/%e5%a5%a8%e5%8a%b1%e8%b3%9e%e3%80%80%e7%ac%ac9%e5%9b%9e/) : **奨励賞**
 ### 出展
-2020/02/15 [Tsukuba Mini Maker Faire 2020](https://tmmf.jp/2020/?portfolio=d%e6%a3%9f%e3%82%82%e3%81%ae%e3%81%a5%e3%81%8f%e3%82%8a%e3%82%af%e3%83%a9%e3%83%96)  
-2020/10/03 [Maker Faire Tokyo 2020](https://makezine.jp/event/makers-mft2020/m0094/)
+2020/02/15 [Tsukuba Mini Maker Faire 2020](https://tmmf.jp/2020/?portfolio=d%e6%a3%9f%e3%82%82%e3%81%ae%e3%81%a5%e3%81%8f%e3%82%8a%e3%82%af%e3%83%a9%e3%83%96)(2日間)  
+2020/10/03 [Maker Faire Tokyo 2020](https://makezine.jp/event/makers-mft2020/m0094/)(2日間)
 
 ### MEDIA
 2020/10/10 [ズームイン!! サタデー](https://www.ntv.co.jp/z-sat/) ([告知tweet](https://twitter.com/ntv_zumusata/status/1314497159937449984?s=20))
